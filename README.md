@@ -1,7 +1,3 @@
-Certainly, here's an enhanced README in English for your project on "Chest X-ray Abnormalities Detection" using YOLOv8 and implemented via Flask:
-
----
-
 # Chest X-ray Abnormalities Detection
 
 This project focuses on detecting abnormalities in chest X-rays using the YOLOv8 model and is deployed as a web application via Flask.
