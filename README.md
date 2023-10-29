@@ -3,9 +3,6 @@
 </div>
 
 # Yolov8 Flask API for detection and segmentation
-
-![Screen GIF](assets/screen.gif)
-
 This code is based on the YOLOv8 code from Ultralytics and it has all the functionalities that the original code has:
 - Different source: images, videos, webcam, RTSP cameras.
 - All the weights are supported: TensorRT, Onnx, DNN, openvino.
