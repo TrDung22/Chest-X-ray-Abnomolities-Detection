@@ -4,12 +4,6 @@
 
 # Yolov8 Flask API for detection and segmentation
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/hdnh2006" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
-  </a>
-</div>
-
 ![Screen GIF](assets/screen.gif)
 
 This code is based on the YOLOv8 code from Ultralytics and it has all the functionalities that the original code has:
