@@ -94,12 +94,5 @@ b'{"results": [{"name": "person", "class": 0, "confidence": 0.9490957260131836, 
 ```
 
 
-## TODO
-- [ ] Return txt values for videos
-- [ ] save folder according to task: detect, pose, segment, ...
-- [ ] Support any other model: SAM, RTDETR, NAS.
-- [ ] Docker files
-- [ ] Improve index template
-
 
 
