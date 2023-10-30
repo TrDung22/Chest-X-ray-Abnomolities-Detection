@@ -6,7 +6,7 @@ This project focuses on detecting abnormalities in chest X-rays using the YOLOv8
 
 To assist healthcare professionals in quickly and conveniently identifying abnormalities in patients' chest X-rays, enhancing the capability for accurate medical diagnosis.
 
-![Demo](link_to_a_demo_or_screenshot)
+![Demo](assets/screen.gif)
 
 ## 📦 Data Source
 
